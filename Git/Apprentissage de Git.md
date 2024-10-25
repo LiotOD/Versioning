@@ -1,8 +1,8 @@
-/* Présentation*/
+***Présentation***
 Git est un logiciel de gestion de version pour les développeurs permettant d'historiser le code d'un projet en gardant une trace des réalisations. 
 Il permet également de revenir à un état précédent pour diverses raisons.
 
-/* Vocabulaire */
+***Vocabulaire***
 
 commit : enregistrement de tous les fichiers du répertoire.
 snapshot : image/copie de tous les fichiers du répertoire.
@@ -18,8 +18,9 @@ pull request : collaboration --> La pull request montre les modifications apport
 
 Merge : ajouter les changements du pull de la branche copiée dans la branche principale main. Après le merge on peut supprimer la branche copie créée.
 
-
-
-
-
+***Apprendre à utiliser les marque-pages***
+*Ajouter un titre*
+# `<h1>` 
+## `<h2>`
+###### `<h6>` 
 
