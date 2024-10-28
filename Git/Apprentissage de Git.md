@@ -24,3 +24,41 @@ Merge : ajouter les changements du pull de la branche copiée dans la branche pr
 ## `<h2>`
 ###### `<h6>` 
 
+*Ajouter une Image*
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) --> il faut que ce soit une url
+
+*Ajouter un bloc de code*
+
+``` $ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+ou 
+``` javascript
+var myVar = "Hello, world!";
+```
+*Ajouter une liste de tâche*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
