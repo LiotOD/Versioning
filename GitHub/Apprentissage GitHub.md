@@ -1,4 +1,4 @@
-/* Présentation*/
+### Présentation
 
 Github est une plateforme de collaboration permettant d'utiliser Git. Avec des dépôts de code dans le cloud, plusieurs développeurs peuvent travailler sur un même projet. 
 Github est un outil de gestion de projet, accessible à tous permettant à n'importe quel développeur de contribuer au code d'un autre.
@@ -12,6 +12,16 @@ creér pull request --> fichiers modifiés--> modifier dans le volet edit --> co
 
 *Activer Github pages sur un repo*
 réglages-->code and automation-->pages-->Deploy from a branch--> source-->main-->enregistrer
+
+
+### Créer un site avec github pages
+
+
+
+
+
+
+
 
 
 
